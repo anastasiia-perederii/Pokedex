@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; 
 
   let pokemonsContainer = document.querySelector('.pokemons-list');
   let templateElement = document.querySelector('#pokemon-template');
